@@ -1,5 +1,9 @@
 <h1 align="center"><b>¡Hola! , Soy Tomás </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<h3 align="center">
+  Information Systems Engineering Student · Software Development · Backend · Databases
+</h3>
+
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mí***
 
 Soy estudiante de Ingeniería en Sistemas de Información en la UTN — Facultad Regional Buenos Aires y en este perfil voy a ir compartiendo proyectos personales y académicos mientras sigo aprendiendo y profundizando mis conocimientos.
